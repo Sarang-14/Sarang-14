@@ -1,6 +1,6 @@
-## Hi I'm sarang patil👋
+## Hi I'm sarang 
 
-# 👋 Hi, I'm Sarang Suryawanshi
+# 👋 Hi, I'm Sarang patil
 
 🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 AI & Data Science Enthusiast
 
