@@ -59,7 +59,7 @@ Welcome to my GitHub! I'm passionate about building real-world projects, learnin
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:sarangpatil14
+- 💼 LinkedIn:www.linkedin.com/in/sarangpatil14
 - 📧 Email: sarangp042@gmail.com
 
 ---
