@@ -1,16 +1,71 @@
-## Hi there 👋
+## Hi I'm sarang patil👋
 
-<!--
-**Sarang-14/Sarang-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sarang Suryawanshi
 
-Here are some ideas to get you started:
+🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 AI & Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm passionate about building real-world projects, learning new technologies, and improving my programming skills every day.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science graduate
+- 💻 Learning Python, SQL, MongoDB & Git
+- 🤖 Exploring Artificial Intelligence & Data Science
+- 📚 Always learning and building new projects
+
+---
+
+## 🌱 Currently Learning
+
+- Python Programming
+- SQL & Database Management
+- MongoDB
+- Git & GitHub
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+- HTML
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build 20+ GitHub Projects
+- ✅ Master Python
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Earn Microsoft Certification
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn:sarangpatil14
+- 📧 Email: sarangp042@gmail.com
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my GitHub Profile!
