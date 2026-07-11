@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm passionate about building real-world projects, learnin
 
 - 💼 LinkedIn:www.linkedin.com/in/sarangpatil14
 - 📧 Email: sarangp042@gmail.com
-- Instagram: sarang.suryawanshi_
+- Instagram:@sarang.suryawanshi_
 
 ---
 
